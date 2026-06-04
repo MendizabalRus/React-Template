@@ -1,11 +1,11 @@
 import './App.css'
 
-export default function App() {
+export function App() {
 
 
   return (
     <>
-      
+      <h1>Hello</h1>
     </>
   )
 }
